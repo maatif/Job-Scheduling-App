@@ -1,5 +1,5 @@
 # Job-Scheduling-App
- <a href="http://www.eworksmanager.co.uk/job-scheduling-software.html">eWorksManager's Job scheduling app</a> demo application is free software for Mac, Windows, Android and other Operating systems which allows you to check all your jobs and track them properly. Also helpful to manage your staff in sales process.
+ <a href="http://www.eworksmanager.co.uk/job-scheduling-software.html">eWorksManager's Job scheduling app</a> demo application is a free software for Mac, Windows, Android and other Operating systems which allows you to check all your jobs and track them properly. Also helpful to manage your staff in sales process.
 
 <h2>Installation</h2>
 <ol>
