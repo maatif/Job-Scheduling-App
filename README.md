@@ -23,6 +23,7 @@
 	<li>Track and manage staff</li>
 </ol>
 <h2>Requirements</h2>
+<p>It is a light weight application that works effeciently on many devices including modern versions.</p>
 <ol>
 	<li>Windows stable version</li>
 	<li>Mac OS  - all versions</li>
