@@ -10,7 +10,9 @@
 	<li>Click finish to launch the app</li>
 </ol>
 <h2>How it works?</h2>
-<p>This demo app is designed to work on various devices ranging from Windows, Android, Mac and so on. If you find any difficulties in using the app, let us know in the issues sections.</p>
+<p>This demo app is designed to work on various devices ranging from Windows, Android, Mac and so on. If you find any difficulties in using the app, let us know in the issues sections.The job scheduling software of eWorksManager is just a free demonstration software for GNU/Linux, Max OSX, Windows and OS. It is interface is intuitive and simple to utilize. The job scheduling application of eWorksManager supplies a digital whiteboard which allows customers to see each of their careers and monitor them. If you have to handle team practically by using this application it super easy to determine schedule meetings and jobs. There are many job scheduling software out-of which eWorksManger was the very best ranked application since it is simple to utilize obtainable in the marketplace, user spontaneous, friendly and much more effective to handle your staff in one single location.</p>
+
+<p>Quickly pull careers right into a position offered within the interface enter your work information for the research, that is it, you're completed. It's built-into smartphone or the local Computer so you may also handle current jobs. Transfer your favorite jobs to occasions you want them to be completed.</p>
 
 <h2>App Features</h2>
 <ol>
