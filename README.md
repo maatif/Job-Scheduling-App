@@ -22,3 +22,10 @@
 	<li>Manage jobs</li>
 	<li>Track and manage staff</li>
 </ol>
+<h2>Requirements</h2>
+<ol>
+	<li>Windows stable version</li>
+	<li>Mac OS  - all versions</li>
+	<li>Android OS</li>
+	<li>iOS</li>
+</ol>
