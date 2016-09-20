@@ -10,7 +10,7 @@
 	<li>Click finish to launch the app</li>
 </ol>
 <h2>How it works?</h2>
-
+<p>This demo app is designed to work on various devices ranging from Windows, Android, Mac and so on. If you find any difficulties in using the app, let us know in the issues sections.</p>
 
 <h2>App Features</h2>
 <ol>
